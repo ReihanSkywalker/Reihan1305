@@ -18,4 +18,4 @@ I work mostly with **Rust, Go, and TypeScript**, and I care about correctness, p
 
 ## 📌 Featured Project
 
-**[Ways Beans](https://github.com/Reihan1305/waysBeansBE)**: a coffee bean e-commerce platform (NestJS + React), built in 24 
+**[Ways Beans](https://github.com/Reihan1305/waysBeansBE)**: a coffee bean e-commerce platform (NestJS + React).
